@@ -90,7 +90,8 @@
 
 ## 🌟 Achievements  
 <p align="center">
-    <img src="https://img.shields.io/badge/Awarded%20Star%20Award%20September-2024-%23FFD700?style=for-the-badge&logo=star&logoColor=white" />
+    <a href="https://www.linkedin.com/posts/imarunjnv_gratitude-flutterdeveloper-webdevelopment-activity-7289954495185272832-IEpq?utm_source=share&utm_medium=member_android">     <img src="https://img.shields.io/badge/Awarded%20Star%20Award%20September-2024-%23FFD700?style=for-the-badge&logo=star&logoColor=white" /> </a>
+
 </p>
 
 ## 🌍 Latest Blog Posts

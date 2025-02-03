@@ -44,23 +44,18 @@
   
   ## 📊 GitHub Stats  
 
-  <div align="center">
-    <table style="width: 90%; margin: auto; border-spacing: 20px;">
-      <tr>
-        <td style="width: 50%; height: 180px; border-radius: 12px; background: #222; padding: 10px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.5);">
-          <img src="https://github-readme-stats.vercel.app/api?username=arun2github&show_icons=true&theme=radical&hide_border=true" style="width: 100%; height: 100%; border-radius: 12px;"/>
-        </td>
-        <td style="width: 50%; height: 180px; border-radius: 12px; background: #222; padding: 10px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.5);">
-          <img src="https://github-readme-streak-stats.herokuapp.com?user=arun2github&theme=radical&hide_border=true" style="width: 100%; height: 100%; border-radius: 12px;"/>
-        </td>
-      </tr>
-      <tr>
-        <td colspan="2" style="height: 180px; border-radius: 12px; background: #222; padding: 10px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.5);">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arun2github&layout=compact&theme=radical&hide_border=true" style="width: 100%; height: 100%; border-radius: 12px;"/>
-        </td>
-      </tr>
-    </table>
-  </div>
+<p align="center">
+  <img height="180px" style="width: 37%;" src="https://github-readme-stats.vercel.app/api?username=arun2github&show_icons=true&theme=radical&hide_border=true" />
+  <img height="180px"  style=" width: 39%;"  src="https://github-readme-streak-stats.herokuapp.com?user=arun2github&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arun2github&layout=compact&theme=radical&hide_border=true" />
+  <img height="180px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arun2github&theme=radical" />
+</p>
+
+  
+  
   
   
   ## 🔥 Fun & Dynamic  

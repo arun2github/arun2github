@@ -1,4 +1,21 @@
 <!-- Modern GitHub Profile ReadMe -->
+
+<style>
+    table {
+      width: 90%;
+      margin: auto;
+      border-spacing: 20px;
+    }
+    
+    .card {
+      width: 100%;
+      height: 180px;
+      border-radius: 12px;
+      background: #222; /* Dark background */
+      padding: 10px;
+      box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.5);
+    }
+  </style>
 <h1 align="center">
     <img style="margin-top: 20px;" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=42E695&center=true&width=600&height=45&lines=Hi+%F0%9F%91%8B%2C+I'm+Arun+Kumar;A+Passionate+App+%26+Web+Developer;Specializing+in+Flutter+%26+React"width="700" />
   </h1>
@@ -41,17 +58,24 @@
   
   ---
   
-  ## 📊 GitHub Stats  
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=arun2github&show_icons=true&theme=radical&hide_border=true" width="49%" height="30%" />
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=arun2github&theme=radical&hide_border=true" width="49%" height="30%"/>
-  </p>
+  <div align="center">
+    <table>
+      <tr>
+        <td>
+          <img src="https://github-readme-stats.vercel.app/api?username=arun2github&show_icons=true&theme=radical&hide_border=true" class="card"/>
+        </td>
+        <td>
+          <img src="https://github-readme-streak-stats.herokuapp.com?user=arun2github&theme=radical&hide_border=true" class="card"/>
+        </td>
+      </tr>
+      <tr>
+        <td colspan="2">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arun2github&layout=compact&theme=radical&hide_border=true" class="card"/>
+        </td>
+      </tr>
+    </table>
+  </div>
   
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arun2github&layout=compact&theme=radical&hide_border=true" width="49%" height="30%" />
-  </p>
-  
-  ---
   
   ## 🔥 Fun & Dynamic  
   <p align="center">

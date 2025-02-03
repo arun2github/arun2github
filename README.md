@@ -1,6 +1,6 @@
 <!-- Modern GitHub Profile ReadMe -->
 <h1 align="center">
-    <img style="margin-top: 20px;" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=42E695&center=true&width=600&height=45&lines=Hi+%F0%9F%91%8B%2C+I'm+Arun+Kumar;A+Passionate+App+%26+Web+Developer;Specializing+in+Flutter+%26+React"width="700" />
+    <img style="margin-top: 20px;" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=42E695&center=true&width=600&height=45&lines=Hi+%F0%9F%91%8B%2C+I'm+Arun+Kumar;A+Passionate+App+%26+Web+Developer;Specializing+in+Flutter+%26+React"width="700" />
   </h1>
   
   <!-- Animated Hero Section -->

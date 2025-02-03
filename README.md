@@ -44,27 +44,21 @@
   
   ## 📊 GitHub Stats  
 
-  <div style="display: flex; flex-direction: row; justify-content: center; gap: 15px;">
-    <div style=" padding: 10px; border-radius: 12px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.5);">
-      <img height="180px" width="350px" src="https://github-readme-stats.vercel.app/api?username=arun2github&show_icons=true&theme=radical&hide_border=true" />
-    </div>
-    <div style=" padding: 10px; border-radius: 12px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.5);">
-      <img height="180px" width="350px" src="https://github-readme-streak-stats.herokuapp.com?user=arun2github&theme=radical&hide_border=true" />
-    </div>
-  </div>
+
+  <p align="center" style="display: flex; flex-direction: row; justify-content: center; gap: 20px;">
+    <img height="180px" width="auto" src="https://github-readme-stats.vercel.app/api?username=arun2github&show_icons=true&theme=radical&hide_border=true" style="box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);" />
+    <img height="180px" width="auto" src="https://github-readme-streak-stats.herokuapp.com?user=arun2github&theme=radical&hide_border=true" style="box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);" />
+  </p>
+  
+  <p align="center" style="display: flex; flex-direction: row; justify-content: center; gap: 20px;">
+    <img height="180px" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arun2github&layout=compact&theme=radical&hide_border=true" style="box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);" />
+    <img height="180px" width="auto" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arun2github&theme=radical" style="box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);" />
+  </p>
+  
   
   <br/>
   
-  <div style="display: flex; flex-direction: row; justify-content: center; gap: 15px;">
-    <div style=" padding: 10px; border-radius: 12px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.5);">
-      <img height="180px" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arun2github&layout=compact&theme=radical&hide_border=true" />
-    </div>
-    <div style=" padding: 10px; border-radius: 12px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.5);">
-      <img height="180px" width="350px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arun2github&theme=radical" />
-    </div>
-  </div>
-  
-
+ 
   
   
   

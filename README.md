@@ -46,21 +46,20 @@
 
  
 
+
 <div align="center">
   <div style="display: flex; gap: 40px; flex-wrap: wrap; justify-content: center;">
-
-    <!-- Stats Cards -->
     <div style="flex: 1 1 300px; text-align: center;">
       <img height="180px" width="auto" src="https://github-readme-stats.vercel.app/api?username=arun2github&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" style="box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2); border-radius: 10px;" />
       <p style="font-size: 16px; color: #42E695;">Profile Stats</p>
     </div>
     
-    <div style="flex: 1 1 300px; text-align: center;">
+<div style="flex: 1 1 300px; text-align: center;">
       <img height="180px" width="auto" src="https://github-readme-streak-stats.herokuapp.com?user=arun2github&theme=radical&hide_border=true" alt="GitHub Streak" style="box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2); border-radius: 10px;" />
       <p style="font-size: 16px; color: #42E695;">Current Streak</p>
     </div>
 
-    <div style="flex: 1 1 300px; text-align: center;">
+<div style="flex: 1 1 300px; text-align: center;">
       <img height="180px" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arun2github&layout=compact&theme=radical&hide_border=true" alt="Top Languages" style="box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2); border-radius: 10px;" />
       <p style="font-size: 16px; color: #42E695;">Top Languages</p>
     </div>
@@ -71,7 +70,6 @@
     <img height="180px" width="auto" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arun2github&theme=radical" style="box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3); border-radius: 10px;" />
   </div>
 </div>
-
 
 ---
 
